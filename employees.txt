@@ -1,0 +1,8 @@
+1,Ahmed,Edhi,48000,Karachi
+5,Ali,Zaida,540000,Lahore
+31,Abdullah,Khan,450000,Multan
+222,Ahmed,Feroze,500000,karachi
+70,Muhammad,Ali,220000,Hyderabad
+189,Hamza,Fudda,4500000,Karachi
+40,Muhammad,Mujtaba,630000,Islamabad
+341,Ahmed,Riaz,4300000,Karachi
